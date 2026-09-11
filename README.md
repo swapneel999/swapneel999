@@ -7,7 +7,7 @@ I build AI systems end-to-end — from edge inference in C++/ROS2 to production 
 - 🔭 Currently working across multi-agent AI pipelines, applied ML fine-tuning, and full-stack production systems
 - 🌱 Completing a Master of Applied Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Statistical Analysis)
 - 💬 Ask me about multi-agent orchestration, QLoRA fine-tuning, or ROS2/edge inference
-- 📫 Reach me at [swapneelmn@gmail.com](mailto:swapneelmn@gmail.com) or [LinkedIn](https://linkedin.com/in/swapneelmn)
+- 📫 Reach me at [swapneelmn@gmail.com](mailto:swapneelmn@gmail.com) or [LinkedIn]([https://linkedin.com/in/swapneelmn](https://www.linkedin.com/in/swapneel-managaonkar-4a09ab186/))
 
 ---
 
